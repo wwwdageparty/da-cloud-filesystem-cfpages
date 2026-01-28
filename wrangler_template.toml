@@ -1,0 +1,13 @@
+name = "da-gateway-cfpages"
+compatibility_date = "2024-04-01"
+pages_build_output_dir = "./dist"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "d1 database name"
+database_id = "d1 database id"
+
+[vars]
+DA_WRITE_TOKEN = "Demo111+"
+DA_GATEWAY_TOKEN = "Demo111+"
+

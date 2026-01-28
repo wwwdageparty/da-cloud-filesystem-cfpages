@@ -1,0 +1,7 @@
+wrangler.toml
+functions/router.ts
+node_modules/
+.wrangler/
+tsconfig.json
+.dev.vars
+test.sh
